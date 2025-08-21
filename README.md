@@ -12,6 +12,7 @@ It demonstrates:
 ---
 
 ## 📂 Project Structure
+```
 recipes_code/
 ├── backend/ # Node.js + Express + PostgreSQL backend
 │ ├── src/
@@ -34,8 +35,7 @@ recipes_code/
 │ └── schema.sql
 └── README.md # Main instructions
 
-
----
+```
 
 ## 🚀 Setup Instructions
 
@@ -50,3 +50,4 @@ node server.js           # Start backend on http://localhost:5000
 cd frontend
 npm install
 npm start                # Start frontend on http://localhost:3000
+
